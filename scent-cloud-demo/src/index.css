@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 1px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: auto;
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+   
+}
+.navlinks{
+    display: flex;
+    text-align: right;
+    margin-right:  40px;
+    justify-content: space-evenly;
+    margin: 40px;
+    gap: 10px;
+
+}

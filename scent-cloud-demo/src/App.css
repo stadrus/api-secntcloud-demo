@@ -1,0 +1,30 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 4px;
+}
+.logo{
+    max-width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+}
+
+.footer-left{
+    text-align: left;
+}
+.footer-center{
+    margin-left: 30%;
+}
+.footer-right{
+    margin-right: 10%;
+    margin-left: 30%;
+}
