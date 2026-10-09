@@ -7,7 +7,7 @@ const Header = () =>{
         <div className="header">
             
             <div className="logo">
-                <img src={Logo} width={200}></img>
+                <img src={Logo} width={100}></img>
             </div>
             
             <div className="navbar">
